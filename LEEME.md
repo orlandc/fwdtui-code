@@ -1,9 +1,6 @@
-# EOPF - Curso FLP (EOPL) - Universidad del Valle
+# FWDTUI - codes
 
-| Español | [Ingles](https://github.com/orlandc/eopl-flp-univalle/) |
-| :---    |                                                  -----: |
+| Español | [Ingles](https://github.com/orlandc/fwdtui-code/) |
+| :---    |                                            -----: |
 
-| Curso    | Fundamentos de Lenguajes de Programación FLP |
-| :---     | :---                                         |
-| Codígo   | 750095M                                      |
-| Año      | 2019-1                                       |
+Pequeña, Rapida y podersa consola de administracion del Firewall para sistemas operativo tipo Unix.  https://orlandc.github.io/fwdtui/
